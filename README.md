@@ -1,5 +1,3 @@
-# Rishabh
-
 <h1>Hello World</h1>
 I'm Rishabh, Developer and Systems Engineer, currently focused on DevOps, Microservices, and Automation using Kubernetes in the cloud. 
 
